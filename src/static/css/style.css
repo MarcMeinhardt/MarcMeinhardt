@@ -63,6 +63,8 @@ h3 {
 /*****bottom container*****/
 .bottom-container{
     background-color: rgb(188, 188, 188);
+    padding: 20px 0px 20px;
+    text-align: center;
 }
 
 .footer-link{
