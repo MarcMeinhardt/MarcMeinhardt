@@ -3,6 +3,8 @@
 
 body {
     background-color: rgb(236, 236, 236);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
 }
 
 hr{
@@ -11,6 +13,14 @@ hr{
     color: red;
     background-color: #ffffff;
     border: none;
+}
+
+h1 {
+    margin: 8px;
+}
+
+h3 {
+    margin: 8px;
 }
 
 /*****CLASS SELECTORS*****/
@@ -48,4 +58,17 @@ hr{
 .blue{
     background-color: rgb(9, 104, 255);
     display: inline-block;
+}
+
+/*****bottom container*****/
+.bottom-container{
+    background-color: rgb(188, 188, 188);
+}
+
+.footer-link{
+    display: block;
+}
+
+.copyright{
+    display: block;
 }
